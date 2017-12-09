@@ -8,11 +8,10 @@
     {"name":"Colorado","alpha-2":"CO"},
     {"name":"Connecticut","alpha-2":"CT"},
     {"name":"Delaware","alpha-2":"DE"},
-    {"name":"District of Columbia","alpha-2":"DC"},
-    {"name":"Florida","alpha-2":"FL"}
+    {"name":"Florida","alpha-2":"FL"},
+    {"name":"Georgia","alpha-2":"GA"}
   ],
   "page2":[
-    {"name":"Georgia","alpha-2":"GA"},
     {"name":"Hawaii","alpha-2":"HI"},
     {"name":"Idaho","alpha-2":"ID"},
     {"name":"Illinois","alpha-2":"IL"},
@@ -21,10 +20,10 @@
     {"name":"Kansa","alpha-2":"KS"},
     {"name":"Kentucky","alpha-2":"KY"},
     {"name":"Lousiana","alpha-2":"LA"},
-    {"name":"Maine","alpha-2":"ME"}
+    {"name":"Maine","alpha-2":"ME"},
+    {"name":"Maryland","alpha-2":"MD"}
   ],
   "page3":[
-    {"name":"Maryland","alpha-2":"MD"},
     {"name":"Massachusetts","alpha-2":"MA"},
     {"name":"Michigan","alpha-2":"MI"},
     {"name":"Minnesota","alpha-2":"MN"},
@@ -33,10 +32,10 @@
     {"name":"Montana","alpha-2":"MT"},
     {"name":"Nebraska","alpha-2":"NE"},
     {"name":"Nevada","alpha-2":"NV"},
-    {"name":"New Hampshire","alpha-2":"NH"}
+    {"name":"New Hampshire","alpha-2":"NH"},
+    {"name":"New Jersey","alpha-2":"NJ"}
   ],
   "page4":[
-    {"name":"New Jersey","alpha-2":"NJ"},
     {"name":"New Mexico","alpha-2":"NM"},
     {"name":"New York","alpha-2":"NY"},
     {"name":"North Carolina","alpha-2":"NC"},
@@ -45,10 +44,10 @@
     {"name":"Oklahoma","alpha-2":"OK"},
     {"name":"Oregon","alpha-2":"OR"},
     {"name":"Pennsylvania","alpha-2":"PA"},
-    {"name":"Rhode Island","alpha-2":"RI"}
+    {"name":"Rhode Island","alpha-2":"RI"},
+    {"name":"South Carolina","alpha-2":"SC"}
   ],
   "page5":[
-    {"name":"South Carolina","alpha-2":"SC"},
     {"name":"South Dakota","alpha-2":"SD"},
     {"name":"Tennessee","alpha-2":"TN"},
     {"name":"Texas","alpha-2":"TX"},
@@ -57,11 +56,9 @@
     {"name":"Virginia","alpha-2":"VA"},
     {"name":"Washington","alpha-2":"WA"},
     {"name":"West Virginia","alpha-2":"WV"},
-    {"name":"Wisconsin","alpha-2":"WI"}
-  ],
-  "page6":[
+    {"name":"Wisconsin","alpha-2":"WI"},
     {"name":"Wyoming","alpha-2":"WY"}
   ],
-  "limitError":{"status":"failed","comment":"page: Field should be no more than 6"},
+  "limitError":{"status":"failed","comment":"page: Field should be no more than 5"},
   "emptyFieldError":{"status":"failed","comment":"page: Field should be empty"}
 }
